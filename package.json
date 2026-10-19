@@ -1,0 +1,11 @@
+
+{
+  "name": "cloudpulse-ci-cd",
+  "version": "1.0.0",
+  "description": "A simple application for a DevOps CI/CD project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --check server.js"
+  }
+}
